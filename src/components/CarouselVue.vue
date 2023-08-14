@@ -3,7 +3,7 @@ import { onMounted, onBeforeUnmount,ref } from "vue"
 
 const images = ref([
   "https://images.unsplash.com/photo-1533228876829-65c94e7b5025?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZyZWV8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
-  "https://thumbs.dreamstime.com/b/concept-risk-danger-business-man-steping-blind-young-businessman-blindfold-walking-carefully-cityscape-149961142.jpg",
+  "https://plus.unsplash.com/premium_photo-1681552900042-5b5881fed356?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmlnaHQlMjBjaXR5fGVufDB8fDB8fHww&w=1000&q=80",
   "https://img.freepik.com/free-photo/digital-painting-mountain-with-colorful-tree-foreground_1340-25699.jpg",
 ])
 
